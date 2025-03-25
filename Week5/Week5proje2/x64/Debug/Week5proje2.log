@@ -1,0 +1,3 @@
+﻿  Week5proje2.cpp
+C:\Users\Seden\source\repos\Week5proje2\Week5proje2.cpp(49,23): warning C4244: 'başlatılıyor': 'double' - 'int' dönüşümü; veri kaybı olabilir
+  Week5proje2.vcxproj -> C:\Users\Seden\source\repos\Week5proje2\x64\Debug\Week5proje2.exe
